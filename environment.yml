@@ -7,7 +7,6 @@ dependencies:
   - certifi=2022.6.15=py39haa95532_0
   - decorator=5.1.1=pyhd3eb1b0_0
   - executing=0.8.3=pyhd3eb1b0_0
-  - jupyter_core=4.10.0=py39haa95532_0
   - matplotlib-inline=0.1.2=pyhd3eb1b0_2
   - parso=0.8.3=pyhd3eb1b0_0
   - pickleshare=0.7.5=pyhd3eb1b0_1003
@@ -15,7 +14,6 @@ dependencies:
   - pure_eval=0.2.2=pyhd3eb1b0_0
   - pygments=2.11.2=pyhd3eb1b0_0
   - python-dateutil=2.8.2=pyhd3eb1b0_0
-  - pyzmq=23.2.0=py39hd77b12b_0
   - six=1.16.0=pyhd3eb1b0_1
   - stack_data=0.2.0=pyhd3eb1b0_0
   - traitlets=5.1.1=pyhd3eb1b0_0
